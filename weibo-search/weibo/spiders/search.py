@@ -102,7 +102,7 @@ class SearchSpider(scrapy.Spider):
         if is_empty:
             print('当前页面搜索结果为空')
         elif page_count < self.further_threshold:
-            # 解析当前页面
+            '''解析当前页面'''
             for weibo in self.parse_weibo(response):
                 self.check_environment()
                 yield weibo
@@ -146,7 +146,7 @@ class SearchSpider(scrapy.Spider):
         if is_empty:
             print('当前页面搜索结果为空')
         elif page_count < self.further_threshold:
-            # 解析当前页面
+            '''解析当前页面'''
             for weibo in self.parse_weibo(response):
                 self.check_environment()
                 yield weibo
@@ -193,7 +193,7 @@ class SearchSpider(scrapy.Spider):
         if is_empty:
             print('当前页面搜索结果为空')
         elif page_count < self.further_threshold:
-            # 解析当前页面
+            '''解析当前页面'''
             for weibo in self.parse_weibo(response):
                 self.check_environment()
                 yield weibo

@@ -14,7 +14,6 @@ from scrapy.exceptions import DropItem
 from scrapy.pipelines.files import FilesPipeline
 from scrapy.pipelines.images import ImagesPipeline
 from scrapy.utils.project import get_project_settings
-
 settings = get_project_settings()
 
 
@@ -94,8 +93,9 @@ class MongoPipeline(object):
         try:
             from pymongo import MongoClient
             self.client = MongoClient(settings.get('MONGO_URI'))
-            self.db = self.client['weibo']
-            self.collection = self.db['weibo']
+            self.db = self.client['weibo_keyword_epidemic']
+            date = settings.get('START_DATE')
+            self.collection = self.db[date]
         except ModuleNotFoundError:
             spider.pymongo_error = True
 
