@@ -29,17 +29,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl_executor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo-search/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo-search/weibo/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/weibo/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl_executor.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl_executor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weibo-search/weibo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/weibo/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weibo-search/weibo/spiders/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/weibo/spiders/search.py" afterDir="false" />
     </list>
@@ -71,6 +62,13 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/FertileFragrance/data_not_scientific" />
+      </set>
+    </option>
   </component>
   <component name="JupyterTrust" id="64572004-eb99-4019-932c-34f43098ce1c" />
   <component name="ProjectId" id="1lZ4AhDXGHPE29LqSDyC92CS2vR" />
@@ -119,6 +117,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mongo_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +164,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.crawl_executor" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.mongo_demo" />
       </list>
     </recent_temporary>
@@ -199,6 +220,14 @@
       <workItem from="1609038892458" duration="3852000" />
       <workItem from="1609047261781" duration="407000" />
       <workItem from="1609066267552" duration="890000" />
+      <workItem from="1609081489782" duration="7672000" />
+      <workItem from="1609156128132" duration="607000" />
+      <workItem from="1609160932434" duration="11601000" />
+      <workItem from="1609207865458" duration="375000" />
+      <workItem from="1609208258230" duration="83000" />
+      <workItem from="1609208362994" duration="71000" />
+      <workItem from="1609208451698" duration="9305000" />
+      <workItem from="1609229323122" duration="3172000" />
     </task>
     <servers />
   </component>
@@ -224,6 +253,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_not_scientific$mongo_demo.coverage" NAME="mongo_demo Coverage Results" MODIFIED="1609066896549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo-search" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$crawl_executor.coverage" NAME="crawl_executor Coverage Results" MODIFIED="1609066944341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1609229371842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$crawl_executor.coverage" NAME="crawl_executor Coverage Results" MODIFIED="1609231664163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

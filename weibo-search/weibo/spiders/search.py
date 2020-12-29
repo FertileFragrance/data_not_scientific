@@ -2,6 +2,7 @@
 import os
 import re
 import sys
+import pymongo
 from datetime import datetime, timedelta
 from urllib.parse import unquote
 
@@ -40,6 +41,12 @@ class SearchSpider(scrapy.Spider):
     pymongo_error = False
     mysql_error = False
     pymysql_error = False
+    # 连接mongodb
+    MAX_COUNT = 3000
+    isRunning = True
+    client = pymongo.MongoClient(host='124.70.84.12', port=27017)
+    db = client['weibo_keyword_epidemic']
+    collection = db.get_collection(str(start_date).split(' ')[0])
 
     def start_requests(self):
         start_date = datetime.strptime(self.start_date, '%Y-%m-%d')
@@ -54,12 +61,16 @@ class SearchSpider(scrapy.Spider):
                 url = base_url + self.weibo_type
                 url += self.contain_type
                 url += '&timescope=custom:{}:{}'.format(start_str, end_str)
+                if not self.isRunning:
+                    os.abort()
                 yield scrapy.Request(url=url,
                                      callback=self.parse,
                                      meta={
                                          'base_url': base_url,
                                          'keyword': keyword
                                      })
+                if not self.isRunning:
+                    os.abort()
             else:
                 for region in self.regions.values():
                     base_url = (
@@ -76,6 +87,8 @@ class SearchSpider(scrapy.Spider):
                                              'keyword': keyword,
                                              'province': region
                                          })
+                    if not self.isRunning:
+                        os.abort()
 
     def check_environment(self):
         """判断配置要求的软件是否已安装"""
@@ -93,6 +106,9 @@ class SearchSpider(scrapy.Spider):
             raise CloseSpider()
 
     def parse(self, response):
+        if self.collection.count() > self.MAX_COUNT:
+            self.isRunning = False
+            os.abort()
         base_url = response.meta.get('base_url')
         keyword = response.meta.get('keyword')
         province = response.meta.get('province')
@@ -135,6 +151,9 @@ class SearchSpider(scrapy.Spider):
                                      })
 
     def parse_by_day(self, response):
+        if self.collection.count() > self.MAX_COUNT:
+            self.isRunning = False
+            os.abort()
         """以天为单位筛选"""
         base_url = response.meta.get('base_url')
         keyword = response.meta.get('keyword')
@@ -183,6 +202,9 @@ class SearchSpider(scrapy.Spider):
                                      })
 
     def parse_by_hour(self, response):
+        if self.collection.count() > self.MAX_COUNT:
+            self.isRunning = False
+            os.abort()
         """以小时为单位筛选"""
         keyword = response.meta.get('keyword')
         is_empty = response.xpath(
@@ -223,6 +245,9 @@ class SearchSpider(scrapy.Spider):
                                      })
 
     def parse_by_hour_province(self, response):
+        if self.collection.count() > self.MAX_COUNT:
+            self.isRunning = False
+            os.abort()
         """以小时和直辖市/省为单位筛选"""
         keyword = response.meta.get('keyword')
         is_empty = response.xpath(
@@ -265,6 +290,9 @@ class SearchSpider(scrapy.Spider):
                                      })
 
     def parse_page(self, response):
+        if self.collection.count() > self.MAX_COUNT:
+            self.isRunning = False
+            os.abort()
         """解析一页搜索结果的信息"""
         keyword = response.meta.get('keyword')
         is_empty = response.xpath(
