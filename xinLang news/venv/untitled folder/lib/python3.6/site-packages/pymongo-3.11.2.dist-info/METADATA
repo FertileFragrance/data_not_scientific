@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: pymongo
+Version: 3.11.2
+Summary: Python driver for MongoDB <http://www.mongodb.org>
+Home-page: http://github.com/mongodb/mongo-python-driver
+Author: Mike Dirolf
+Author-email: mongodb-user@googlegroups.com
+Maintainer: Bernie Hackett
+Maintainer-email: bernie@mongodb.com
+License: Apache License, Version 2.0
+Keywords: mongo,mongodb,pymongo,gridfs,bson
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Database
+Requires-Python: >=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*
+Provides-Extra: aws
+Requires-Dist: pymongo-auth-aws (<2.0.0) ; extra == 'aws'
+Provides-Extra: encryption
+Requires-Dist: pymongocrypt (<2.0.0) ; extra == 'encryption'
+Provides-Extra: gssapi
+Requires-Dist: pykerberos ; extra == 'gssapi'
+Provides-Extra: ocsp
+Requires-Dist: pyopenssl (>=17.2.0) ; extra == 'ocsp'
+Requires-Dist: requests (<3.0.0) ; extra == 'ocsp'
+Requires-Dist: service-identity (>=18.1.0) ; extra == 'ocsp'
+Provides-Extra: snappy
+Requires-Dist: python-snappy ; extra == 'snappy'
+Provides-Extra: srv
+Requires-Dist: dnspython (<2.0.0,>=1.16.0) ; extra == 'srv'
+Provides-Extra: tls
+Provides-Extra: zstd
+Requires-Dist: zstandard ; extra == 'zstd'
+
+UNKNOWN
+
+
