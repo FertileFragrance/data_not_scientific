@@ -8,7 +8,7 @@ import requests
 jsonURL = 'https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2510&etime={}&stime={}&ctime={}&date={}2&k=&num=50&page={}'
 myclient = pymongo.MongoClient(host="124.70.84.12", port=27017)
 mydb = myclient["dataScience"]  # 创建数据库
-mycol = mydb["stage1"]  # 创建一个集合
+mycol = mydb["stage1"]   # 创建一个集合
 mycol2 = mydb["stage2"]
 mycol3 = mydb["stage3"]
 mycol4 = mydb["stage4"]
