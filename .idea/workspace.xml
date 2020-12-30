@@ -96,7 +96,7 @@
       <recent name="$PROJECT_DIR$/weibo-search/weibo" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.crawl_executor">
     <configuration name="crawl_executor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
