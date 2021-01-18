@@ -1,0 +1,28 @@
+{
+    "user_id_list": ["2803301701"],
+    "filter": 1,
+    "since_date": "2019-12-08",
+    "end_date": "2020-06-30",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]],
+    "write_mode": ["csv"],
+    "pic_download": 0,
+    "video_download": 0,
+	"file_download_timeout": [5, 5, 10],
+	"result_dir_name": 0,
+    "cookie": "_T_WM=51826813731; MLOGIN=0; BAIDU_SSP_lcr=https://github.com/dataabc/weiboSpider/blob/master/docs/cookie.md; M_WEIBOCN_PARAMS=luicode%3D20000174; SCF=AhGj0eO1-II3Dx9dmCTRZLacF8qT7BcZ1aF8oiaS9qR1-R-3X4YXWYPGL-vAnPBTbKD2HuvXEVRjFmwxxAzz4uA.; SUB=_2A25NAa0xDeRhGeFN6lMU-CnPyjyIHXVuDTN5rDV6PUJbktAKLUynkW1NQGbqaJMRIhoUctTg3zCh0RIPvNdM6_CX; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWhH_kLFJIpnAsByMeBAs5_5NHD95QNe02pSKnNe027Ws4DqcjMi--NiK.Xi-2Ri--ciKnRi-zNS0epeK-RS0epe5tt; SSOLoginState=1610997089",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    },
+    "kafka_config": {
+        "bootstrap-server": "127.0.0.1:9092",
+        "weibo_topics": ["spider_weibo"],
+        "user_topics": ["spider_weibo"]
+    },
+    "sqlite_config": "weibo.db"
+}

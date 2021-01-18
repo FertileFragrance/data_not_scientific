@@ -1,0 +1,28 @@
+{
+    "user_id_list": ["1669879400"],
+    "filter": 1,
+    "since_date": "2018-01-01",
+    "end_date": "now",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]],
+    "write_mode": ["csv", "txt"],
+    "pic_download": 1,
+    "video_download": 1,
+	"file_download_timeout": [5, 5, 10],
+	"result_dir_name": 0,
+    "cookie": "your cookie",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    },
+    "kafka_config": {
+        "bootstrap-server": "127.0.0.1:9092",
+        "weibo_topics": ["spider_weibo"],
+        "user_topics": ["spider_weibo"]
+    },
+    "sqlite_config": "weibo.db"
+}

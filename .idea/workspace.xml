@@ -28,20 +28,70 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: 增加数据上限，每日最多3000条">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/compute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/stage1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/stage2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/stage3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf-idf/stage4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
+      <change afterPath="$PROJECT_DIR$/weiboSpider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/all.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/FAQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/automation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/contributors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/cookie.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/example.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/docs/userid.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/test_comment_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/test_index_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/test_info_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/test_mblog_picAll_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/test_page_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/test_parser/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/2f62165fa3ca1e85e0d398d385c377a068b76eb95765f7020ffffd3e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/4957814af5a123b82e974b5537dea736dfb34e48d8835203a45d2e67.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/4d5ed0a3ebd0303cb45edd544dbc0ab5e86d43e103405f0c60515884.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/63a98849ec82b2c87ec55bca03cbf5988f7eac233a23d86b4fdf5ffd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/76233b3f90394581aac6f19cfa5d674a610e8b442b1f83de7673ab49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/a4437630f3bdfa2757bae1595186ac063fe5ec25cf2f98116ece83cb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/ca5f2a555e8d62f728c66fa90afb2d54d19f8c898e164204a61bdf03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/d486235d4a17dd0accb0f2cc77b3648abfa03580b9e0cdb61f1e618f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/e97222acd5bc7d8d1bfbd3f352f8cad3e36fdd19e40b69e1c33fb3c3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/tests/testdata/url_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/config_sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/config_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/datetime_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/downloader/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/downloader/downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/downloader/img_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/downloader/video_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/comment_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/index_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/info_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/mblog_picAll_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/page_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/parser/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/user_id_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/weibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/csv_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/json_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/kafka_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/mongo_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/mysql_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/sqlite_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/txt_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo_spider/writer/writer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawl_executor.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl_executor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo-search/weibo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/weibo/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +141,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tf-idf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -103,8 +153,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tf-idf" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tf-idf" />
       <recent name="$PROJECT_DIR$/weibo-search/weibo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -335,8 +385,16 @@
       <workItem from="1610886670102" duration="52000" />
       <workItem from="1610886733585" duration="4608000" />
       <workItem from="1610892760662" duration="153000" />
-      <workItem from="1610892926589" duration="23983000" />
+      <workItem from="1610892926589" duration="26041000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
+      <created>1610995742843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610995742844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +416,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/weibo-search" />
     </ignored-roots>
+    <MESSAGE value="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_not_scientific$mongo_demo.coverage" NAME="mongo_demo Coverage Results" MODIFIED="1609066896549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo-search" />
