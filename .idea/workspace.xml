@@ -28,11 +28,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="">
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: 增加数据上限，每日最多3000条">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/compute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/stage1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/stage2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/stage3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf-idf/stage4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawl_executor.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl_executor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weibo-search/weibo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/weibo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo-search/weibo/spiders/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo-search/weibo/spiders/search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,24 +89,30 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mongo" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tf-idf" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/weibo-search" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tf-idf" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/weibo-search/weibo" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weibo-search" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.crawl_executor">
-    <configuration name="crawl_executor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.compute_by_jieba">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,14 +120,52 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-idf" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl_executor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-idf/compute.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compute_by_jieba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-idf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -163,6 +216,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tf_idf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_idf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.compute_by_jieba" />
+        <item itemvalue="Python.compute" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.tf_idf" />
+        <item itemvalue="Python.mongo_demo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -223,6 +304,38 @@
       <workItem from="1609208362994" duration="71000" />
       <workItem from="1609208451698" duration="9305000" />
       <workItem from="1609229323122" duration="3172000" />
+      <workItem from="1609476530625" duration="34000" />
+      <workItem from="1609476581541" duration="498000" />
+      <workItem from="1609477097418" duration="35000" />
+      <workItem from="1609477142884" duration="204000" />
+      <workItem from="1609477361009" duration="1912000" />
+      <workItem from="1609488065429" duration="2000" />
+      <workItem from="1609516913049" duration="21000" />
+      <workItem from="1609517177200" duration="28000" />
+      <workItem from="1609517219609" duration="722000" />
+      <workItem from="1609518587366" duration="115000" />
+      <workItem from="1609518712833" duration="35000" />
+      <workItem from="1609518758819" duration="68000" />
+      <workItem from="1609519383157" duration="734000" />
+      <workItem from="1609520128666" duration="1036000" />
+      <workItem from="1609521176009" duration="3115000" />
+      <workItem from="1609608272848" duration="354000" />
+      <workItem from="1609611814062" duration="247000" />
+      <workItem from="1609612072576" duration="398000" />
+      <workItem from="1609691511828" duration="46000" />
+      <workItem from="1609754754395" duration="645000" />
+      <workItem from="1609944366801" duration="30000" />
+      <workItem from="1610031648914" duration="441000" />
+      <workItem from="1610258330915" duration="108000" />
+      <workItem from="1610258459404" duration="445000" />
+      <workItem from="1610294971002" duration="122000" />
+      <workItem from="1610625761575" duration="112000" />
+      <workItem from="1610625890788" duration="110000" />
+      <workItem from="1610626033229" duration="41000" />
+      <workItem from="1610886670102" duration="52000" />
+      <workItem from="1610886733585" duration="4608000" />
+      <workItem from="1610892760662" duration="153000" />
+      <workItem from="1610892926589" duration="23983000" />
     </task>
     <servers />
   </component>
@@ -245,5 +358,10 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/weibo-search" />
     </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_not_scientific$mongo_demo.coverage" NAME="mongo_demo Coverage Results" MODIFIED="1609066896549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo-search" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1610975967673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$crawl_executor.coverage" NAME="crawl_executor Coverage Results" MODIFIED="1609434533345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
