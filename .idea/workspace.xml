@@ -29,25 +29,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="docs:">
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报01.08-02.04.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报02.04-03.01.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报03.01-03.26.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报03.26-05.02.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报05.02-05.21.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报05.21-06.30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报12.08-01.08.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报wid.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/凤凰网/凤凰网03.16-06.30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/凤凰网/凤凰网12.08-03.16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/凤凰网/凤凰网wid.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/南方周末/南方周末.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/南方周末/南方周末wid.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weiboSpider/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/weiboSpider/all.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weiboSpider/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/weiboSpider/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weiboSpider/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/weiboSpider/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/ListModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/ListView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/MyDialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/WeiboCommentScrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/comment/IaXqijjA9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/comment/IaYZIu0Ko.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/fp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/oa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/topic/香港.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/user/华为中国/2557129567.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/user/华为中国/2557129567.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/user/清华大学/1676317545.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/user/清华大学/1676317545.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/user/腾讯微信团队/1930378853.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/GUI 功能集中版/user/腾讯微信团队/1930378853.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/WeiboCommentScrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/WeiboSuperCommentScrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/WeiboTopicScrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/WeiboUserScrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/comment/IaYZIu0Ko.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/comment/J93CetdWe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/font/NotoSansCJK-Bold.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/01_res.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/01_res_jieba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/02_res.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/02_res_jieba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/03_res.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/03_res_jieba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/04_res.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/image/04_res_jieba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-cloud/word_cloud.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage1_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/stage1_by_jieba.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +120,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/weiboSpider/weibo/网易新闻客户端" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -109,15 +131,15 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/weibo-search" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\南方周末" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\凤凰网" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\人民日报" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/tf-idf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/weibo-search" />
     </key>
   </component>
   <component name="RunManager" selected="Python.spider">
@@ -253,6 +275,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.tf_idf" />
+      <item itemvalue="Python.compute" />
+      <item itemvalue="Python.compute_by_jieba" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.spider" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.spider" />
@@ -263,7 +292,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -376,13 +405,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -416,5 +444,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611040963924" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_not_scientific$mongo_demo.coverage" NAME="mongo_demo Coverage Results" MODIFIED="1609066896549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo-search" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1611049048259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1611038642629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$crawl_executor.coverage" NAME="crawl_executor Coverage Results" MODIFIED="1609434533345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
