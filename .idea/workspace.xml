@@ -28,8 +28,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: recover word cloud image">
-      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/save_to_db.py" afterDir="false" />
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/save_to_db(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/weibo_screen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报微博(1).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/人民日报/人民日报微博(2).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/凤凰网/凤凰网微博.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/南方周末/南方周末微博.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboSpider/weibo/网易新闻客户端/网易新闻客户端微博.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +48,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -82,8 +89,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/word-cloud/image" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weiboSpider/weibo/网易新闻客户端" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -94,39 +101,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/word-cloud/image" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\南方周末" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\凤凰网" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\人民日报" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tf-idf" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/weibo-search" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.save_to_db">
-    <configuration name="WeiboCommentScrapy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_not_scientific" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版/WeiboCommentScrapy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.save_to_db(2)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +119,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -142,14 +127,14 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="compute_by_jieba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,36 +142,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf-idf" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weiboSpider/weibo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weiboSpider/weibo/read.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="save_to_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="save_to_db(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weiboSpider/weibo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weiboSpider/weibo/save_to_db.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weiboSpider/weibo/save_to_db(2).py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -208,29 +190,68 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weiboSpider/weibo_spider/spider.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.compute_by_jieba" />
-      <item itemvalue="Python.spider" />
-      <item itemvalue="Python.WeiboCommentScrapy" />
-      <item itemvalue="Python.save_to_db" />
-    </list>
+    <configuration name="weibo_screen (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weiboSpider/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weiboSpider/weibo/weibo_screen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo_screen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weiboSpider/weibo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\weibo_screen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.save_to_db" />
-        <item itemvalue="Python.WeiboCommentScrapy" />
+        <item itemvalue="Python.save_to_db(2)" />
+        <item itemvalue="Python.weibo_screen (1)" />
+        <item itemvalue="Python.weibo_screen" />
+        <item itemvalue="Python.read" />
         <item itemvalue="Python.spider" />
-        <item itemvalue="Python.compute_by_jieba" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -324,7 +345,6 @@
       <workItem from="1610886733585" duration="4608000" />
       <workItem from="1610892760662" duration="153000" />
       <workItem from="1610892926589" duration="26041000" />
-      <workItem from="1611155791825" duration="13990000" />
     </task>
     <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
       <created>1610995742843</created>
@@ -333,21 +353,7 @@
       <option name="project" value="LOCAL" />
       <updated>1610995742844</updated>
     </task>
-    <task id="LOCAL-00002" summary="feat: finish word cloud in stage one to four">
-      <created>1611069268773</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1611069268773</updated>
-    </task>
-    <task id="LOCAL-00003" summary="fix: recover word cloud image">
-      <created>1611158549996</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1611158549996</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,29 +364,85 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/weibo-search" />
     </ignored-roots>
     <MESSAGE value="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection" />
-    <MESSAGE value="feat: finish word cloud in stage one to four" />
-    <MESSAGE value="fix: recover word cloud image" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: recover word cloud image" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_not_scientific$save_to_db__.coverage" NAME="save_to_db(副本) Coverage Results" MODIFIED="1611169147541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weiboSpider/weibo" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$mongo_demo.coverage" NAME="mongo_demo Coverage Results" MODIFIED="1609066896549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo-search" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1611049048259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1611038642629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$WeiboCommentScrapy.coverage" NAME="WeiboCommentScrapy Coverage Results" MODIFIED="1611072125563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$save_to_db.coverage" NAME="save_to_db Coverage Results" MODIFIED="1611169880869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weiboSpider/weibo" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$crawl_executor.coverage" NAME="crawl_executor Coverage Results" MODIFIED="1609434533345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  <component name="WindowStateProjectService">
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611240266430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611240266430" />
+    <state x="287" y="6" key="CommitChangelistDialog2" timestamp="1611065528699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="287" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611065528699" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611067006794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611067006794" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1611249466105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611249466105" />
+    <state x="505" y="123" key="RollbackChangesDialog" timestamp="1611244737873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="505" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611244737873" />
+    <state x="342" y="109" key="SettingsEditor" timestamp="1611242685790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611242685790" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611060529955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611060529955" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611239017639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1611239017639" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611040963924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611040963924" />
   </component>
 </project>
