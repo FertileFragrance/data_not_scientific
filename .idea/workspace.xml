@@ -28,37 +28,17 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="feat: label emotion-categories">
-      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦015.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦015.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦017.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦017.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦019.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦020.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦020.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦021.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦021.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦022.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦022.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦028.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦028.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦030.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦030.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦031.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦031.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦032.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦032.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦077.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦077.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦078.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦078.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦081.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦081.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦083.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦083.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦085.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦085.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒041.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒041.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒045.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒045.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒047.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒047.txt" afterDir="false" />
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒049.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒049.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒055.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒055.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒059.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒059.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒064.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒064.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒065.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒065.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒067.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒067.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒068.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒068.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒069.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒069.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒090.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒090.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒092.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒092.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒093.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒093.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒072.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒072.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒077.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒077.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -409,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611170250092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: 改动一些标签">
+      <created>1611402424864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611402424864</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,65 +422,8 @@
     <MESSAGE value="feat: finish word cloud in stage one to four" />
     <MESSAGE value="fix: recover word cloud image" />
     <MESSAGE value="feat: save comment to db" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: save comment to db" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="338" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611298934072">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="338" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611298934072" />
-    <state x="376" y="6" key="CommitChangelistDialog2" timestamp="1611387481462">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="376" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611387481462" />
-    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1611299762802">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611299762802" />
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1611387372266">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
-    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1611387372266">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
-    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1611387372266">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
-    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1611387372266">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1611387032188">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1611387032188">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1611387032188">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1611387032188">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1611324776086">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611324776086" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611252225056">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611252225056" />
-    <state x="943" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611386783177">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="943" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611386783177" />
+    <MESSAGE value="fix: 改动一些标签" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: 改动一些标签" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_not_scientific$train.coverage" NAME="train Coverage Results" MODIFIED="1611393458910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
