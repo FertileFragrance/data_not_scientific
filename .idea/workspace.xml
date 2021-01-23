@@ -29,608 +29,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="feat: label emotion-categories">
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶001.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶002.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶003.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶004.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶004.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶005.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶005.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶006.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶006.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶007.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶007.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶008.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶008.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶009.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶009.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶010.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶010.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶011.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶011.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶012.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶012.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶013.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶013.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶014.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶014.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶015.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶016.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶017.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶018.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶019.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶020.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶020.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶021.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶021.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶022.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶022.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶023.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶023.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶024.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶024.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶025.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶025.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶026.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶026.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶027.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶027.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶028.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶028.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶029.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶029.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶030.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶030.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶031.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶031.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶032.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶032.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶033.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶033.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶034.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶034.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶035.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶035.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶036.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶036.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶037.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶037.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶038.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶038.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶039.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶039.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶040.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶040.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶041.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶041.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶042.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶042.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶043.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶043.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶044.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶044.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶045.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶045.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶046.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶046.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶047.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶047.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶048.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶048.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶049.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶049.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶050.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶050.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶051.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶051.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶052.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶052.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶053.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶053.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶054.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶054.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶055.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶055.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶056.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶056.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶057.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶057.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶058.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶058.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶059.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶059.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶060.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶060.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶061.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶061.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶062.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶062.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶063.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶063.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶064.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶064.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶065.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶065.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶066.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶066.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶067.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶067.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶068.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶068.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶069.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶069.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶070.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶070.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶071.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶071.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶072.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶072.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶073.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶073.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶074.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶074.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶075.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶075.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶076.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶076.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶077.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶077.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶078.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶078.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶079.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶079.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶080.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶080.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶081.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶081.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶082.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶082.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶083.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶083.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶084.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶084.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶085.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶085.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶086.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶086.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶087.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶087.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶088.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶088.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶089.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶089.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶090.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶090.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶091.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶091.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶092.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶092.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶093.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶093.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶094.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶094.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶095.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶095.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶096.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶096.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶097.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶097.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶098.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶098.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶099.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶099.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶100.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/厌恶100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀001.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀002.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀003.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀004.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀004.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀005.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀005.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀006.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀006.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀007.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀007.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀008.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀008.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀009.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀009.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀010.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀010.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀011.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀011.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀012.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀012.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀013.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀013.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀014.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀014.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀015.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀016.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀017.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀018.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀019.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀020.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀020.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀021.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀021.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀022.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀022.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀023.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀023.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀024.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀024.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀025.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀025.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀026.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀026.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀027.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀027.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀028.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀028.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀029.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀029.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀030.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀030.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀031.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀031.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀032.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀032.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀033.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀033.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀034.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀034.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀035.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀035.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀036.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀036.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀037.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀037.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀038.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀038.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀039.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀039.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀040.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀040.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀041.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀041.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀042.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀042.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀043.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀043.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀044.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀044.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀045.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀045.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀046.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀046.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀047.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀047.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀048.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀048.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀049.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀049.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀050.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀050.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀051.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀051.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀052.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀052.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀053.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀053.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀054.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀054.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀055.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀055.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀056.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀056.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀057.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀057.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀058.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀058.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀059.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀059.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀060.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀060.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀061.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀061.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀062.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀062.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀063.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀063.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀064.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀064.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀065.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀065.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀066.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀066.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀067.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀067.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀068.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀068.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀069.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀069.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀070.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀070.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀071.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀071.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀072.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀072.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀073.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀073.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀074.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀074.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀075.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀075.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀076.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀076.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀077.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀077.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀078.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀078.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀079.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀079.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀080.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀080.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀081.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀081.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀082.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀082.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀083.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀083.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀084.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀084.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀085.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀085.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀086.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀086.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀087.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀087.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀088.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀088.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀089.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀089.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀090.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀090.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀091.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀091.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀092.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀092.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀093.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀093.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀094.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀094.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀095.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀095.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀096.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀096.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀097.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀097.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀098.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀098.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀099.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀099.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀100.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/悲哀100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意001.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意001.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意002.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意002.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意003.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意003.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意004.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意004.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意005.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意005.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意006.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意006.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意007.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意007.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意008.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意008.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意009.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意009.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意010.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意010.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意011.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意011.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意012.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意012.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意013.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意013.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意014.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意014.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意015.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意015.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意016.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意016.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意017.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意017.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意018.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意019.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意019.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意020.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意020.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意021.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意021.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意022.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意022.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意023.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意023.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意024.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意024.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意025.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意025.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意026.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意026.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意027.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意027.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意028.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意028.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意029.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意029.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意030.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意030.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意031.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意031.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意032.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意032.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意033.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意033.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意034.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意034.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意035.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意035.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意036.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意036.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意037.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意037.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意038.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意038.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意039.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意039.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意040.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意040.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意041.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意041.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意042.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意042.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意043.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意043.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意044.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意044.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意045.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意045.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意046.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意046.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意047.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意047.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意048.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意048.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意049.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意049.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意050.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意050.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意051.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意051.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意052.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意052.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意053.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意053.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意054.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意054.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意055.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意055.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意056.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意056.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意057.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意057.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意058.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意058.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意059.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意059.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意060.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意060.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意061.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意061.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意062.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意062.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意063.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意063.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意064.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意064.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意065.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意065.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意066.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意066.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意067.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意067.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意068.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意068.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意069.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意069.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意070.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意070.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意071.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意071.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意072.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意072.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意073.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意073.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意074.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意074.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意075.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意075.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意076.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意076.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意077.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意077.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意078.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意078.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意079.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意079.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意080.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意080.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意081.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意081.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意082.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意082.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意083.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意083.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意084.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意084.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意085.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意085.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意086.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意086.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意087.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意087.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意088.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意088.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意089.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意089.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意090.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意090.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意091.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意091.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意092.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意092.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意093.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意093.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意094.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意094.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意095.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意095.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意096.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意096.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意097.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意097.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意098.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意098.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意099.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意099.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意100.lab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/满意100.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/magpie/base/document.py" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/magpie/base/document.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦015.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦015.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦017.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦017.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦019.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦019.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦020.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦020.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦021.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦021.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦022.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦022.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦028.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦028.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦030.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦030.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦031.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦031.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦032.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦032.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦077.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦077.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦078.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦078.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦081.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦081.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦083.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦083.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦085.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/喜悦085.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒041.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒041.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒045.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒045.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒047.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒047.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒059.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒059.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒065.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒065.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒067.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒067.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒068.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒068.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒069.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒069.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒090.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒090.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒092.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒092.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒093.txt" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/data/emotion-categories/愤怒093.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magpie/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -659,7 +86,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -686,7 +113,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/word-cloud/image" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -707,7 +134,7 @@
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\人民日报" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.writeForKongju">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -722,28 +149,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_not_scientific" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -840,20 +245,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="write_label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie/data/emotion-categories" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/data/emotion-categories/write_label.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.write_label" />
       <item itemvalue="Python.writeForLeguan" />
       <item itemvalue="Python.writeForHuaiyi" />
       <item itemvalue="Python.writeForKongju" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.train" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.train" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.writeForKongju" />
         <item itemvalue="Python.writeForLeguan" />
         <item itemvalue="Python.writeForHuaiyi" />
+        <item itemvalue="Python.write_label" />
+        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>
@@ -1010,15 +437,65 @@
     <MESSAGE value="feat: save comment to db" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: save comment to db" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611298934072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611298934072" />
+    <state x="376" y="6" key="CommitChangelistDialog2" timestamp="1611387481462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="376" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611387481462" />
+    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1611299762802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611299762802" />
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1611387372266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
+    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1611387372266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
+    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1611387372266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
+    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1611387372266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611387372266" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1611387032188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1611387032188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1611387032188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1611387032188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611387032188" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1611324776086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611324776086" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611252225056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611252225056" />
+    <state x="943" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611386783177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="943" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611386783177" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_not_scientific$save_to_db__.coverage" NAME="save_to_db(副本) Coverage Results" MODIFIED="1611169147541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weiboSpider/weibo" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$mongo_demo.coverage" NAME="mongo_demo Coverage Results" MODIFIED="1609066896549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo-search" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$test.coverage" NAME="test Coverage Results" MODIFIED="1611389732370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1611049048259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$train.coverage" NAME="train Coverage Results" MODIFIED="1611391385480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$WeiboCommentScrapy.coverage" NAME="WeiboCommentScrapy Coverage Results" MODIFIED="1611072125563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeiboSuperSpider/无 GUI 功能独立版" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$save_to_db.coverage" NAME="save_to_db Coverage Results" MODIFIED="1611169880869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weiboSpider/weibo" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1611325443827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$crawl_executor.coverage" NAME="crawl_executor Coverage Results" MODIFIED="1609434533345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$train.coverage" NAME="train Coverage Results" MODIFIED="1611393458910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
   </component>
 </project>
