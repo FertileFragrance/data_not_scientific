@@ -82,7 +82,7 @@ class Document(object):
         lines = self.text.split('\n')
         raw = [sentence for inner_list in lines
                for sentence in re.split('，|。', inner_list)]
-        print([[w.lower() for w in jieba.cut(s) if w not in string.punctuation]
-               for s in raw])
+        # print([[w.lower() for w in jieba.cut(s) if w not in string.punctuation]
+        #        for s in raw])
         return [[w.lower() for w in jieba.cut(s) if w not in string.punctuation]
                 for s in raw]
