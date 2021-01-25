@@ -26,21 +26,21 @@
     └─compute_by_jieba.py			# 使用jieba内置的函数提取关键词并存入文件
 ├─weibo-search						# 微博关键词搜索爬虫模块
 	├─crawls						# 爬虫的缓存文件目录
-    └─weibo							# 爬虫的核心代码
+    └─weibo						# 爬虫的核心代码
     	├─spiders					# 执行爬虫
-    	├─utils						# 工具包
+    	├─utils					# 工具包
     	└─settings.py				# 爬虫全局设置
 ├─weiboSpider						# 微博博文爬虫模块
-	├─weibo							# 结果目录
+	├─weibo						# 结果目录
     ├─weibo_spider					# 爬虫的核心代码
     └─config.json					# 爬虫全局设置
 ├─word-cloud						# 词云制作模块
 	├─font							# 显示的字体目录
-    ├─image							# 词云的掩膜和结果保存目录
+    ├─image						# 词云的掩膜和结果保存目录
     └─word_cloud.ipynb				# 词云绘制脚本
 ├─xinLang news						# 新浪新闻爬虫模块
 │  └─main.py						# 执行爬虫
-└─crawl_executor.py					# 微博关键词爬虫自动管理脚本
+└─crawl_executor.py				# 微博关键词爬虫自动管理脚本
 ```
 
 ## 项目流程
@@ -80,7 +80,7 @@ pip 20.2.4 from /home/njuselhx/.local/lib/python3.7/site-packages/pip (python 3.
 
 注意一定要有一个`Python 3.7`及以下的`Python3`版本，因为所需的依赖`tensorflow~=1.15.2`只能在`Python 3.7`及以下的版本安装。
 
-至于要用到的全部依赖没有专门整理到`requirements.txt`，有些模块有所整理，除了这些还有常用的如`pands` `matplotlib`之类，没有很少见的依赖，可自行到脚本中查看。
+至于要用到的全部依赖没有专门整理到`requirements.txt`，有些模块有所整理，除了这些还有常用的如`pandas` `matplotlib`之类，没有很少见的依赖，可自行到脚本中查看。
 
 `Jupyter`环境
 
