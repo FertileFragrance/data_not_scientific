@@ -28,21 +28,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: add some files">
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="refactor: adjust directory in tf-idf">
       <change afterPath="$PROJECT_DIR$/magpie/test_by_cnsenti.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/compute.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/compute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage1_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage1_by_jieba.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage2_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage2_by_jieba.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage3_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage3_by_jieba.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf/stage4_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage4_by_jieba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +104,7 @@
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\人民日报" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tf-idf/keyword" />
       <recent name="$PROJECT_DIR$/predict" />
       <recent name="$PROJECT_DIR$/predict/predict-res" />
       <recent name="$PROJECT_DIR$/weibo-search" />
@@ -370,7 +360,7 @@
       <workItem from="1611487333695" duration="4623000" />
       <workItem from="1611541477800" duration="1418000" />
       <workItem from="1611543570131" duration="21283000" />
-      <workItem from="1611589587794" duration="792000" />
+      <workItem from="1611589587794" duration="5741000" />
     </task>
     <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
       <created>1610995742843</created>
@@ -428,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611566404653</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refactor: adjust directory in tf-idf">
+      <created>1611590516533</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611590516533</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +455,8 @@
     <MESSAGE value="feat: compute values of emotions" />
     <MESSAGE value="feat: predict statistics of emotions in 4 months" />
     <MESSAGE value="fix: add some files" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: add some files" />
+    <MESSAGE value="refactor: adjust directory in tf-idf" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: adjust directory in tf-idf" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_not_scientific$test_by_cnsenti.coverage" NAME="test_by_cnsenti Coverage Results" MODIFIED="1611589642086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
