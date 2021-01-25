@@ -28,7 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="refactor: adjust directory in tf-idf">
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: one mistake">
       <change afterPath="$PROJECT_DIR$/magpie/test_by_cnsenti.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -360,7 +360,7 @@
       <workItem from="1611487333695" duration="4623000" />
       <workItem from="1611541477800" duration="1418000" />
       <workItem from="1611543570131" duration="21283000" />
-      <workItem from="1611589587794" duration="5741000" />
+      <workItem from="1611589587794" duration="7111000" />
     </task>
     <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
       <created>1610995742843</created>
@@ -425,7 +425,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611590516533</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="doc: finish README.md">
+      <created>1611595790971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611595790971</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: one mistake">
+      <created>1611595975245</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611595975245</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +470,9 @@
     <MESSAGE value="feat: predict statistics of emotions in 4 months" />
     <MESSAGE value="fix: add some files" />
     <MESSAGE value="refactor: adjust directory in tf-idf" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: adjust directory in tf-idf" />
+    <MESSAGE value="doc: finish README.md" />
+    <MESSAGE value="fix: one mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: one mistake" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_not_scientific$test_by_cnsenti.coverage" NAME="test_by_cnsenti Coverage Results" MODIFIED="1611589642086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />

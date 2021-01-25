@@ -8,39 +8,39 @@
 
 ```
 .
-├─magpie							# 机器学习模块
-	├─data							# 进行训练的数据集和测试结果目录
-    ├─magpie						# 机器学习核心代码，经修改后支持中文
-    └─save							# 训练好模型之后的保存目录
-    ├─test.py						# 测试数据并存入文件
-    ├─test_by_cnsenti.py			# 用cnsenti库测试数据并存入文件
-    └─train.py						# 训练模型脚本
-├─predict							# 心态预测模块
-	├─predict-res					# 预测结果目录
-    ├─checkout.py					# 确定ARIMA模型参数的脚本
-    ├─emotion_frequency.xlsx		# 进行预测的现有数据
-    └─predict.py					# 预测脚本
-├─tf-idf							# 关键词提取模块
-	├─keyword						# 得到的关键词
-    ├─compute.py					# 用tf-idf算法计算出关键词并存入文件
-    └─compute_by_jieba.py			# 使用jieba内置的函数提取关键词并存入文件
-├─weibo-search						# 微博关键词搜索爬虫模块
-	├─crawls						# 爬虫的缓存文件目录
-    └─weibo						# 爬虫的核心代码
-    	├─spiders					# 执行爬虫
-    	├─utils					# 工具包
-    	└─settings.py				# 爬虫全局设置
-├─weiboSpider						# 微博博文爬虫模块
-	├─weibo						# 结果目录
-    ├─weibo_spider					# 爬虫的核心代码
-    └─config.json					# 爬虫全局设置
-├─word-cloud						# 词云制作模块
-	├─font							# 显示的字体目录
-    ├─image						# 词云的掩膜和结果保存目录
-    └─word_cloud.ipynb				# 词云绘制脚本
-├─xinLang news						# 新浪新闻爬虫模块
-│  └─main.py						# 执行爬虫
-└─crawl_executor.py				# 微博关键词爬虫自动管理脚本
+├─magpie                           # 机器学习模块
+    ├─data                         # 进行训练的数据集和测试结果目录
+    ├─magpie                       # 机器学习核心代码，经修改后支持中文
+    └─save                         # 训练好模型之后的保存目录
+    ├─test.py                      # 测试数据并存入文件
+    ├─test_by_cnsenti.py           # 用cnsenti库测试数据并存入文件
+    └─train.py                     # 训练模型脚本
+├─predict                          # 心态预测模块
+    ├─predict-res                  # 预测结果目录
+    ├─checkout.py                  # 确定ARIMA模型参数的脚本
+    ├─emotion_frequency.xlsx       # 进行预测的现有数据
+    └─predict.py                   # 预测脚本
+├─tf-idf                           # 关键词提取模块
+    ├─keyword                      # 得到的关键词
+    ├─compute.py                   # 用tf-idf算法计算出关键词并存入文件
+    └─compute_by_jieba.py          # 使用jieba内置的函数提取关键词并存入文件
+├─weibo-search                     # 微博关键词搜索爬虫模块
+    ├─crawls                       # 爬虫的缓存文件目录
+    └─weibo                        # 爬虫的核心代码
+        ├─spiders                  # 执行爬虫
+        ├─utils                    # 工具包
+        └─settings.py              # 爬虫全局设置
+├─weiboSpider                      # 微博博文爬虫模块
+    ├─weibo                        # 结果目录
+    ├─weibo_spider                 # 爬虫的核心代码
+    └─config.json                  # 爬虫全局设置
+├─word-cloud                       # 词云制作模块
+    ├─font                         # 显示的字体目录
+    ├─image                        # 词云的掩膜和结果保存目录
+    └─word_cloud.ipynb             # 词云绘制脚本
+├─xinLang news                     # 新浪新闻爬虫模块
+    └─main.py                      # 执行爬虫
+└─crawl_executor.py                # 微博关键词爬虫自动管理脚本
 ```
 
 ## 项目流程
