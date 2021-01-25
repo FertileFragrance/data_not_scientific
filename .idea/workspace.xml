@@ -28,17 +28,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="">
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="feat: compute values of emotions">
+      <change afterPath="$PROJECT_DIR$/arima_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict/checkout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict/predict-res/愤怒预测.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict/predict-res/满意预测.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magpie/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/magpie/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pymongo/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pymongo/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pymongo/command_cursor.py" beforeDir="false" afterPath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pymongo/command_cursor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pymongo/cursor.py" beforeDir="false" afterPath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/pymongo/cursor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/xinLang news/venv/untitled folder/lib/python3.6/site-packages/requests/sessions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +93,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/word-cloud/image" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/predict/predict-res" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -103,18 +104,20 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/weibo-search" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/word-cloud/image" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/word-cloud/image" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\南方周末" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\凤凰网" />
       <recent name="D:\360MoveData\Users\忧郁多瑙河\Desktop\data_not_scientific\weiboSpider\weibo\人民日报" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/predict" />
+      <recent name="$PROJECT_DIR$/predict/predict-res" />
+      <recent name="$PROJECT_DIR$/weibo-search" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.predict">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writeForHuaiyi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie/data/emotion-categories" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/data/emotion-categories/writeForHuaiyi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writeForKongju" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie/data/emotion-categories" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/data/emotion-categories/writeForKongju.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writeForLeguan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +214,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie/data/emotion-categories" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/data/emotion-categories/writeForLeguan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="write_label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie/data/emotion-categories" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/data/emotion-categories/write_label.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,19 +251,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.write_label" />
-      <item itemvalue="Python.writeForLeguan" />
-      <item itemvalue="Python.writeForHuaiyi" />
-      <item itemvalue="Python.writeForKongju" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.temp1" />
+      <item itemvalue="Python.temp2" />
+      <item itemvalue="Python.temp3" />
+      <item itemvalue="Python.predict" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.writeForKongju" />
-        <item itemvalue="Python.writeForLeguan" />
-        <item itemvalue="Python.writeForHuaiyi" />
-        <item itemvalue="Python.write_label" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.temp3" />
+        <item itemvalue="Python.temp2" />
+        <item itemvalue="Python.temp1" />
+        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +363,10 @@
       <workItem from="1610892926589" duration="26041000" />
       <workItem from="1611155791825" duration="14483000" />
       <workItem from="1611245442861" duration="438000" />
-      <workItem from="1611455211697" duration="2186000" />
+      <workItem from="1611455211697" duration="2824000" />
+      <workItem from="1611487333695" duration="4623000" />
+      <workItem from="1611541477800" duration="1418000" />
+      <workItem from="1611543570131" duration="6476000" />
     </task>
     <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
       <created>1610995742843</created>
@@ -397,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611402424864</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: compute values of emotions">
+      <created>1611465698438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611465698438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,10 +437,16 @@
     <MESSAGE value="fix: recover word cloud image" />
     <MESSAGE value="feat: save comment to db" />
     <MESSAGE value="fix: 改动一些标签" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: 改动一些标签" />
+    <MESSAGE value="feat: compute values of emotions" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: compute values of emotions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_not_scientific$temp3.coverage" NAME="temp3 Coverage Results" MODIFIED="1611552244919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_not_scientific$test.coverage" NAME="test Coverage Results" MODIFIED="1611459589405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
     <SUITE FILE_PATH="coverage/data_not_scientific$train.coverage" NAME="train Coverage Results" MODIFIED="1611393458910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1611489623351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$temp2.coverage" NAME="temp2 Coverage Results" MODIFIED="1611544518052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$temp1.coverage" NAME="temp1 Coverage Results" MODIFIED="1611498081316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$predict.coverage" NAME="predict Coverage Results" MODIFIED="1611552331923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
