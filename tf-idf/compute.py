@@ -90,7 +90,7 @@ def multiply_tf_idf(tf_list, idf_dict_arg):
 
 
 def save_file(words_list):
-    with open('stage4.txt', 'w', encoding='utf-8') as f:
+    with open('keyword/stage4.txt', 'w', encoding='utf-8') as f:
         for word in words_list:
             f.write(word + '\n')
         f.flush()

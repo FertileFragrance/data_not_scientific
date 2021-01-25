@@ -28,14 +28,21 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="feat: predict statistics of emotions in 4 months">
-      <change afterPath="$PROJECT_DIR$/magpie/save/emotion_keras_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/save/emotion_scaler" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/save/emotion_word2vec_model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magpie/疫情期间人们的心态构成变化.gif" afterDir="false" />
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: add some files">
+      <change afterPath="$PROJECT_DIR$/magpie/test_by_cnsenti.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/data_not_scientific.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_not_scientific.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/compute.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/compute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/compute_by_jieba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage1_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage1_by_jieba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage2_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage2_by_jieba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage3_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage3_by_jieba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf/stage4_by_jieba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tf-idf/keyword/stage4_by_jieba.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +120,7 @@
       <recent name="$PROJECT_DIR$/weibo-search" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test_by_cnsenti">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +135,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,50 +187,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_not_scientific" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="temp3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data_not_scientific" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_not_scientific" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,6 +201,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_by_cnsenti" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_not_scientific" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magpie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magpie/test_by_cnsenti.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +254,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.temp2" />
-      <item itemvalue="Python.temp3" />
       <item itemvalue="Python.predict" />
       <item itemvalue="Python.train" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.test_by_cnsenti" />
+      <item itemvalue="Python.demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_by_cnsenti" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.train" />
         <item itemvalue="Python.predict" />
-        <item itemvalue="Python.temp3" />
-        <item itemvalue="Python.temp2" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +369,8 @@
       <workItem from="1611455211697" duration="2824000" />
       <workItem from="1611487333695" duration="4623000" />
       <workItem from="1611541477800" duration="1418000" />
-      <workItem from="1611543570131" duration="15042000" />
+      <workItem from="1611543570131" duration="21283000" />
+      <workItem from="1611589587794" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
       <created>1610995742843</created>
@@ -413,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611553452195</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix: add some files">
+      <created>1611566404653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611566404653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,14 +457,16 @@
     <MESSAGE value="fix: 改动一些标签" />
     <MESSAGE value="feat: compute values of emotions" />
     <MESSAGE value="feat: predict statistics of emotions in 4 months" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: predict statistics of emotions in 4 months" />
+    <MESSAGE value="fix: add some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: add some files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_not_scientific$test_by_cnsenti.coverage" NAME="test_by_cnsenti Coverage Results" MODIFIED="1611589642086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
     <SUITE FILE_PATH="coverage/data_not_scientific$temp3.coverage" NAME="temp3 Coverage Results" MODIFIED="1611552244919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_not_scientific$test.coverage" NAME="test Coverage Results" MODIFIED="1611560777284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
     <SUITE FILE_PATH="coverage/data_not_scientific$train.coverage" NAME="train Coverage Results" MODIFIED="1611558917957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
-    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1611489623351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_not_scientific$temp2.coverage" NAME="temp2 Coverage Results" MODIFIED="1611544518052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_not_scientific$demo.coverage" NAME="demo Coverage Results" MODIFIED="1611578677323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_not_scientific$temp1.coverage" NAME="temp1 Coverage Results" MODIFIED="1611498081316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/data_not_scientific$predict.coverage" NAME="predict Coverage Results" MODIFIED="1611552331923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

@@ -21,7 +21,7 @@ for doc in doc_content_list:
     for keyword in keyword_list:
         if keyword not in res:
             res.append(keyword)
-with open('stage4_by_jieba.txt', 'w', encoding='utf-8') as f:
+with open('keyword/stage4_by_jieba.txt', 'w', encoding='utf-8') as f:
     f.write('------结巴分词自身基于tf-idf筛选出的关键词，无先后顺序之分------' + '\n')
     for r in res:
         f.write(r + '\n')
