@@ -28,10 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: one mistake">
+    <list default="true" id="03ae6a12-74ea-4ebd-8a4e-392833767d15" name="Default Changelist" comment="fix: indent problem">
+      <change afterPath="$PROJECT_DIR$/magpie/data/emotion_frequency_by_cnsenti.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/magpie/test_by_cnsenti.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +359,7 @@
       <workItem from="1611487333695" duration="4623000" />
       <workItem from="1611541477800" duration="1418000" />
       <workItem from="1611543570131" duration="21283000" />
-      <workItem from="1611589587794" duration="7111000" />
+      <workItem from="1611589587794" duration="7897000" />
     </task>
     <task id="LOCAL-00001" summary="feat: compute tf-idf both by myself and by jieba, use the dataScience mongodb collection">
       <created>1610995742843</created>
@@ -439,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611595975245</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix: indent problem">
+      <created>1611597174090</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611597174090</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +478,8 @@
     <MESSAGE value="refactor: adjust directory in tf-idf" />
     <MESSAGE value="doc: finish README.md" />
     <MESSAGE value="fix: one mistake" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: one mistake" />
+    <MESSAGE value="fix: indent problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: indent problem" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_not_scientific$test_by_cnsenti.coverage" NAME="test_by_cnsenti Coverage Results" MODIFIED="1611589642086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magpie" />
